@@ -1,2 +1,6 @@
 @charset "UTF-8";
-/*modo em pé, retrato, portrait
+/*modo em pé, retrato, portrait*/
+
+body{
+    background-image: url(../img/cev-portrait.jpg);
+}
